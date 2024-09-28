@@ -1,9 +1,9 @@
 ![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-ai-artificial-intelligence-technology-concise-image_19646.jpg)
-<h1 align="center">Hi 👋, Me llamo Jose Alexis Terrazas</h1>
-<h3 align="center">Soy un aprendiz apasionado de científico de datos</h3>
+<h1 align="center">Hi 👋, My name is Alexis Terrazas</h1>
+<h3 align="center">I am a master's student at the Center for Computing Research (CIC) of the IPN/h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🔭 I’m currently working on **EDA and IA proyects**
+- 🔭I’m currently working on **cybersecurity, programming, and AI projects**
 
 - 💬 Ask me about **Python, Cybersecurity, IA, Linux, Quartus ii**
 
