@@ -3,9 +3,9 @@
 <h3 align="center">Soy un aprendiz apasionado de científico de datos</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🔭 I’m currently working on **EDA proyects**
+- 🔭 I’m currently working on **EDA and IA proyects**
 
-- 💬 Ask me about **Python, C++, Quartus ii y Arduino**
+- 💬 Ask me about **Python, Cybersecurity, IA, Linux, Quartus ii**
 
 - 📫 How to reach me **josealexis955@gmail.com**
 
